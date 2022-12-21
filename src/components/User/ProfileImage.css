@@ -1,0 +1,17 @@
+.user-image-small{
+    position: absolute;
+    border-radius: 50%;
+    width: 30px;
+}
+
+.user-image-medium{
+    position: absolute;
+    border-radius: 50%;
+    width: 40px;
+}
+
+.user-image-large{
+    position: absolute;
+    border-radius: 50%;
+    width: 90px;
+}

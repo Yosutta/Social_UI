@@ -1,0 +1,12 @@
+.postTitle{
+    font-size: 16px;
+}
+
+.postCreatedAt{
+    margin-left: 5px;
+    font-size: 10px
+}
+
+.postContent{
+    font-size: 14px;
+}
